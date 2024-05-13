@@ -1,8 +1,8 @@
 # Historia de Usuario No. 01
-## Título de la Historia
-`Como [rol], necesito [funcionalidad] para que [beneficio]`
+## Diagramas de flujo
+`Como programador, necesito entender el problema para que mi código funcione`
 ## Descripción
-Breve descripción del contexto y la necesidad que cubre esta historia de usuario.
+Analizar una serie de problemas mediante diagrmas de flujo.
 ## Criterios de Aceptación
 Lista detallada de condiciones que debe cumplir la historia para considerarse completada.
 1. **Criterio de Aceptación 1**
@@ -12,9 +12,9 @@ Lista detallada de condiciones que debe cumplir la historia para considerarse co
    - Detalle específico del criterio
    - Detalle específico del criterio
 ## Prioridad
-Indicar la prioridad de esta historia de usuario. Puede ser Alta, Media o Baja.
+Alta.
 ## Estimación
-Tiempo estimado para completar esta historia de usuario. Se puede utilizar puntos de historia, días u horas, según la convención del equipo.
+4 días.
 ## Notas/Tareas Adicionales
 Espacio para anotar cualquier tarea adicional, notas, o dependencias relacionadas con esta historia de usuario.
 - [ ] Tarea adicional 1
